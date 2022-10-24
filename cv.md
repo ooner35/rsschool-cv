@@ -1,6 +1,6 @@
 1. # Oğuz Öner
 1. + Telephone: **+90 123-456-7890**
-   + Email: **dilbarmutavalova@gmail.com**
+   + Email: **oner.oguz@outlook.com**
    + **[LinkedIn](https://www.linkedin.com/in/oner-oguz/)**
    + **[GitHub](https://github.com/ooner35)**
 1. Junior backend developer with a passion for learning new programming languages and developing innovative applications. Skilled in C#, SQL, and JavaScript. Eager to join a team of developers and contribute to the development of cutting-edge applications.
