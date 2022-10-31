@@ -1,1 +1,1 @@
-# https://ooner35.github.io/rsschool-cv/cv
+# https://ooner35.github.io/rsschool-cv/
